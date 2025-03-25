@@ -1,34 +1,34 @@
-﻿ID,Status of Audit,Analysis
-1,Completed,Past Due
-2,Completed,Past Due
-3,Completed,Past Due
-4,Completed,Past Due
-5,Completed,Past Due
-6,Deferred,Deferred
-7,Deferred,Deferred
-8,In-Progress,In-Progress
-9,Scheduled,Scheduled
-10,In-Progress,In-Progress
-11,In-Progress,In-Progress
-12,In-Progress,In-Progress
-13,Scheduled,Scheduled
-14,Scheduled,Scheduled
-15,Completed,Delivered on Deadline
-16,Completed,Delivered 6 days or more before Deadline
-17,Completed,Delivered 6 days or more before Deadline
-18,Completed,Delivered 6 days or more After Deadline
-19,Completed,Delivered 6 days or more After Deadline
-20,Completed,Delivered 6 days or more After Deadline
-21,Completed,Delivered 6 days or more After Deadline
-22,Completed,Delivered 5 days or less After Deadline
-23,Completed,Delivered 5 days or less After Deadline
-24,Completed,Delivered on Deadline
-25,Completed,Delivered 5 days or less before Deadline
-26,Completed,Delivered 5 days or less before Deadline
-27,Completed,Delivered 5 days or less before Deadline
-28,Completed,Delivered 6 days or more before Deadline
-29,Completed,Delivered 5 days or less After Deadline
-30,Completed,Delivered 6 days or more After Deadline
-31,Completed,Delivered 5 days or less before Deadline
-32,Completed,Delivered on Deadline
-33,Completed,Delivered 5 days or less before Deadline
+﻿ID,Status of Audit
+1,Completed
+2,Completed
+3,Completed
+4,Completed
+5,Completed
+6,Deferred
+7,Deferred
+8,In-Progress
+9,Scheduled
+10,In-Progress
+11,In-Progress
+12,In-Progress
+13,Scheduled
+14,Scheduled
+15,Completed
+16,Completed
+17,Completed
+18,Completed
+19,Completed
+20,Completed
+21,Completed
+22,Completed
+23,Completed
+24,Completed
+25,Completed
+26,Completed
+27,Completed
+28,Completed
+29,Completed
+30,Completed
+31,Completed
+32,Completed
+33,Completed
